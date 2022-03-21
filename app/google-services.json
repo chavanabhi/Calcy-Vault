@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659436588841",
+    "project_id": "hidecalcy",
+    "storage_bucket": "hidecalcy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659436588841:android:dc9e8160e435e47691f138",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659436588841-gsf11j6k4qqum6ifqgipps3tn13gfgqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5Z_28l8stKrASWQI81DQ5KX-XYZuzok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659436588841-gsf11j6k4qqum6ifqgipps3tn13gfgqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

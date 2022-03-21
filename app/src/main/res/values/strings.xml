@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calcy</string>
+    <string name="clear">ac</string>
+    <string name="Module">%</string>
+    <string name="Divide">/</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="Addition">+</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="subtract">-</string>
+    <string name="_7">7</string>
+    <string name="_9">9</string>
+    <string name="Multiply">*</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="Equals">=</string>
+    <string name="_8">8</string>
+
+    <string name="permission_required">Camera access is required to display the camera preview.</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted. You can use the camera now.</string>
+</resources>
